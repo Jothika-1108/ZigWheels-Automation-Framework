@@ -53,12 +53,6 @@ public class BaseClass {
         return driver;
     }
 
-
-
-
-
-
-
     public static void tearDown() {
         driver.quit();
     }

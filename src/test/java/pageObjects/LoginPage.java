@@ -81,7 +81,6 @@ public class LoginPage {
 
         System.out.println("===== LOGIN ERROR =====");
         System.out.println(errorText);
-        System.out.println("------------------");
 
         return errorText;
     }
